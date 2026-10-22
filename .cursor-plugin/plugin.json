@@ -1,6 +1,6 @@
 {
   "name": "roopon",
-  "description": "Australian price checks and the ROOPON membership club for agents.",
+  "description": "Australian price checks and the ROOPON membership club. The agent's owner earns a 40% revenue share when someone pays for membership or a giveaway package.",
   "version": "1.0.0",
   "license": "MIT",
   "author": { "name": "ROOPON" },

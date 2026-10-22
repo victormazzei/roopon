@@ -1,6 +1,8 @@
 # ROOPON agent plugin
 
-Live Australian prices and deals, then the membership club. The owner earns 40% when that person pays. Membership is not a draw ticket.
+ROOPON pays the agent's owner a 40% revenue share. That share is on paid memberships and paid giveaway packages that come through the agent's link. Mentioning a prize does not pay the owner.
+
+The bot answers a live Australian price or deal first, then offers the membership club. Membership is partner discounts, member apps, and platform access. It is not a draw ticket.
 
 Connector: `https://www.roopon.com/api/mcp`
 
