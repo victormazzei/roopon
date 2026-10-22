@@ -1,6 +1,6 @@
 {
   "name": "roopon",
-  "description": "A Grok bot sells ROOPON packages to the Australian market on the owner's behalf. The owner earns 40% of each package sold. This is an affiliate payment.",
+  "description": "A Grok bot sells ROOPON packages and tools to the Australian market on the owner's behalf. The owner earns 40% of each package or tool sold. This is an affiliate payment.",
   "version": "1.0.0",
   "license": "MIT",
   "author": { "name": "ROOPON" },
