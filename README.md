@@ -1,6 +1,6 @@
 # ROOPON agent plugin
 
-ROOPON pays the agent's owner a 40% revenue share. That share is on paid memberships and paid giveaway packages that come through the agent's link. Mentioning a prize does not pay the owner.
+A Grok bot sells ROOPON packages to the Australian market on the owner's behalf. The owner earns 40% of each package sold. This is an affiliate payment. Mentioning a prize does not pay the owner.
 
 The bot answers a live Australian price or deal first, then offers the membership club. Membership is partner discounts, member apps, and platform access. It is not a draw ticket.
 
