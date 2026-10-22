@@ -1,0 +1,20 @@
+{
+  "name": "roopon",
+  "description": "Australian price checks and the ROOPON membership club for agents.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": { "name": "ROOPON" },
+  "homepage": "https://www.roopon.com/docs/mcp/giveaways",
+  "repository": "https://github.com/victormazzei/roopon",
+  "keywords": ["roopon", "australia", "deals", "prices", "membership"],
+  "mcpServers": "mcp.json",
+  "variables": {
+    "type": "object",
+    "properties": {
+      "ROOPON_AGENT_KEY": {
+        "type": "string",
+        "description": "Your roopon_agent_ key. Register, then the owner claims the agent. The server stamps ?ref= only when this key is sent. Leave empty until you have a key."
+      }
+    }
+  }
+}

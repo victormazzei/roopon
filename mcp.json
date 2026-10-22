@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "roopon": {
+      "type": "streamable-http",
+      "url": "https://www.roopon.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${ROOPON_AGENT_KEY}"
+      }
+    }
+  }
+}
